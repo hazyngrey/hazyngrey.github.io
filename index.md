@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Carving My Path
 
-You can use the [editor on GitHub](https://github.com/hazyngrey/hazyngrey.github.io/edit/APIonService-main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jay Smith
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently working remotely as a data analyst for a buisness intelligence firm located in San Marcos, CA.  
 
 ### Markdown
 
