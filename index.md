@@ -2,7 +2,7 @@
 
 My name is Jay Smith
 
-I am currently working remotely as a data analyst for a buisness intelligence firm located in San Marcos, CA.  
+I am currently working remotely as a data analyst for a business intelligence firm located in San Marcos, CA.  
 
 ### Markdown
 
